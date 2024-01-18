@@ -7,7 +7,8 @@ We detect communities in a game called “Valorant” based on Twitter data and 
 • Tools:python,pyvis, NetworkX, Jupyter Notebook,etc.
 
 
-![Ecd flowchart](https://github.com/Vikas17032002/Esports-Community-Detection/assets/93994000/7e64fcc6-1aa7-4e17-99bd-02b3e4235257)
+![image](https://github.com/Vikas17032002/Esports-Community-Detection/assets/93994000/7b88fbd7-376c-4ae2-876d-6e17aea89ab3)
+
 
                                                                       Flow Chart of process
 
